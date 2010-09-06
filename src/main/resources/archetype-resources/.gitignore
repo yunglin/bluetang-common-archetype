@@ -1,0 +1,7 @@
+/target
+/hibernate.reveng.xml
+/.classpath
+/.project
+/.settings
+/.idea
+/test-output
